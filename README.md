@@ -1,4 +1,4 @@
-# 初中一年组生物课件分享
+# 初中生物课件分享
 
 - 课件PPT打开不需要密码。
 
@@ -8,11 +8,13 @@
 
 - ![点击这里可以提出 issue 进行讨论](https://github.com/deauty/MilldeSchooleGradeOne/issues/new)，欢迎提问和建议。
 
-# 欢迎关注公众号
+- 或者关注下面的公众号留言。
 
-这里的课件对应公众号的推送内容。
+# 欢迎扫描关注公众号
 
-![](Figures/deauty_qr_8cm.jpg)
+<img src="Figures/deauty_qr_8cm.jpg" width="150" /> 这里的课件对应微信公众号的推送内容。
+
+或者搜索微信公众号``Deauty``关注。
 
 <img src="Figures/deauty_1.png" width="258" />  <img src="Figures/deauty_2.png" width="258" />  <img src="Figures/deauty_3.png" width="258" />
 
