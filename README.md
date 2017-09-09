@@ -12,9 +12,13 @@
 
 # 欢迎扫描关注公众号
 
-<img src="Figures/deauty_qr_8cm.jpg" width="150" /> 这里的课件对应微信公众号的推送内容。
+<p align="center"> 
+  <img src="Figures/deauty_qr_8cm.jpg" width="150" />
+</p> 
 
-或者搜索微信公众号``Deauty``关注。
+- 这里的课件对应微信公众号的推送内容。
+
+- 或者搜索微信公众号``DeautyDan``关注。
 
 <img src="Figures/deauty_1.png" width="258" />  <img src="Figures/deauty_2.png" width="258" />  <img src="Figures/deauty_3.png" width="258" />
 
