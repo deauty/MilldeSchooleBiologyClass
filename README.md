@@ -8,7 +8,7 @@
 
 - [课件下载位置](PPTs)
 
-- ![点击这里可以提出 issue 进行讨论](https://github.com/deauty/MilldeSchooleGradeOne/issues/new)，欢迎提问和建议。
+- ![点击这里可以提出 issue 进行讨论](https://github.com/deauty/MilldeSchooleGradeOne/issues/new)，欢迎提问和建议（需要注册并登录GitHub账号）。
 
 - 或者关注下面的公众号留言。
 
