@@ -6,6 +6,8 @@
 
 - 建议在原课件的基础上，另存为新文件后，再进行编辑。
 
+- [课件下载位置](PPTs)
+
 - ![点击这里可以提出 issue 进行讨论](https://github.com/deauty/MilldeSchooleGradeOne/issues/new)，欢迎提问和建议。
 
 - 或者关注下面的公众号留言。
