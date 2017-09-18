@@ -18,7 +18,7 @@
   <img src="Figures/deauty_qr_8cm.jpg" width="150" />
 </p> 
 
-- 也可微信搜索``Deauty``或者``DeautyDan``关注微信公众号。
+- 微信搜索公众号``Deauty``或``DeautyDan``关注。
 
 - 这里的课件对应微信公众号的推送内容。
 
