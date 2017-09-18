@@ -2,7 +2,7 @@
 
 - 课件PPT打开不需要密码。
 
-- 为了防止意外编辑，设置了**编辑密码**，是`rdfzhtclidan`（即**人大附中航天城**拼音首字母 + 作者名字**lidan**）
+- 为了防止意外编辑，设置了**编辑密码**，是`rdfzhtclidan`（即**人大附中航天城**拼音首字母 + 作者名字全拼**lidan**）
 
 - 建议在原课件的基础上，另存为新文件后，再进行编辑。
 
@@ -18,9 +18,9 @@
   <img src="Figures/deauty_qr_8cm.jpg" width="150" />
 </p> 
 
-- 这里的课件对应微信公众号的推送内容。
+- 也可微信搜索``Deauty``或者``DeautyDan``关注微信公众号。
 
-- 或者搜索微信公众号``DeautyDan``关注。
+- 这里的课件对应微信公众号的推送内容。
 
 <img src="Figures/deauty_1.png" width="258" />  <img src="Figures/deauty_2.png" width="258" />  <img src="Figures/deauty_3.png" width="258" />
 
