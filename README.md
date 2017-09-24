@@ -1,4 +1,4 @@
-# 初中生物课件分享
+# Deauty 微信公众号的课件分享
 
 - 课件PPT打开不需要密码。
 
@@ -8,7 +8,7 @@
 
 - [课件下载位置](PPTs)
 
-- ![点击这里可以提出 issue 进行讨论](https://github.com/deauty/MilldeSchooleGradeOne/issues/new)，欢迎提问和建议（需要注册并登录GitHub账号）。
+- ![点击这里可以提出 issue 进行讨论](https://github.com/deauty/ShareCoursewareOfDan/issues/new)，欢迎提问和建议（需要注册并登录GitHub账号）。
 
 - 或者关注下面的公众号留言。
 
@@ -25,9 +25,15 @@
 <img src="Figures/deauty_1.png" width="258" />  <img src="Figures/deauty_2.png" width="258" />  <img src="Figures/deauty_3.png" width="258" />
 
 -----------------------------
+# Currently includes:
 
-# MilldeSchooleGradeOne
-Millde Schoole Grade One Biology Class Presentations from teacher Li, Dan.
+## PrimarySchooleGradeOne
+Primary Schoole Grade 1 Biology Class Presentations from teacher Li, Dan.
+
+## MilldeSchooleGradeOne
+Millde Schoole Grade 1--2 Biology Class Presentations from teacher Li, Dan.
+
+
 
 ------------------
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
