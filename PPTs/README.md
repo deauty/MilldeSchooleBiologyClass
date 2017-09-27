@@ -6,4 +6,6 @@
 
 - 建议在原课件的基础上，另存为新文件后，再进行编辑。
 
-- ![点击这里可以提出 issue 进行讨论](https://github.com/deauty/MilldeSchooleGradeOne/issues/new)，欢迎提问和建议（需要注册并登录GitHub账号）。
+- [点击这里可以提出 issue 进行讨论](https://github.com/deauty/MilldeSchooleGradeOne/issues/new)，欢迎提问和建议（需要注册并登录GitHub账号）。
+
+- [返回下载](./)
